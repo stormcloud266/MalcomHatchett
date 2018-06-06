@@ -1,0 +1,25 @@
+{
+  "name": "malcomhatchett",
+  "version": "1.0.0",
+  "description": "Malcolm Hatchett Website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bighappytrees/MalcomHatchett.git"
+  },
+  "keywords": [
+    "Comedy",
+    "Standup",
+    "Comedian",
+    "Podcast"
+  ],
+  "author": "bighappytrees and stormcloud266",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bighappytrees/MalcomHatchett/issues"
+  },
+  "homepage": "https://github.com/bighappytrees/MalcomHatchett#readme"
+}

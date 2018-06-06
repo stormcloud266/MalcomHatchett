@@ -1,3 +1,3 @@
 # Malcolm Hatchett
 
-*the future of comedy*
+The future of comedy.
