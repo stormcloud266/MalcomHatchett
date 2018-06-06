@@ -4,6 +4,7 @@
   "description": "Malcolm Hatchett Website",
   "main": "main.js",
   "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/bighappytrees/MalcomHatchett/issues"
   },
-  "homepage": "https://github.com/bighappytrees/MalcomHatchett#readme"
+  "homepage": "https://github.com/bighappytrees/MalcomHatchett#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
 }
